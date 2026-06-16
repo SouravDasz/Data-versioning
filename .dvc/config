@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = c:\dvc\data-versioning\dvc
+['remote "c:\dvc\data-versioning\dvc"']
+    url = ../store
