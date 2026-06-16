@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 data = {
-    "name": ["sourav", "ankan","new friend","bap"],
-    "age": [1, 20,21,63]
+    "name": ["sourav", "ankan","new friend"],
+    "age": [1, 20,21]
 }
 
 df = pd.DataFrame(data)
